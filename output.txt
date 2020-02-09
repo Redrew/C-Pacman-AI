@@ -1,0 +1,19 @@
+-----------------------------------------
+Propagation=Average
+Budget=1000
+MaxDepth = 56
+TotalGenerated = 16257458
+TotalExpanded = 6825210
+Time = 1877.00 seconds
+Expanded/Second = 3636
+Score = 2115
+-----------------------------------------
+Propagation=Max
+Budget=1000
+MaxDepth = 75
+TotalGenerated = 10181185
+TotalExpanded = 4491731
+Time = 1145.00 seconds
+Expanded/Second = 3922
+Score = 3282
+Level = 7
